@@ -1,0 +1,12 @@
+{
+  "name": "youtube-discord-notifier",
+  "version": "1.0.0",
+  "description": "Avisos de YouTube en Discord",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
